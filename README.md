@@ -6,6 +6,9 @@ In this project, I applied K-Means clustering to group houses based on different
 ## Dataset
 California Housing Dataset (from Scikit-learn library)
 
+## Approach
+K-Means clustering algorithm was used to group similar houses after scaling the dataset. The optimal number of clusters was determined using the Elbow method, and PCA was used for visualization.
+
 ## Steps Involved
 - Data preprocessing
 - Feature scaling using StandardScaler
